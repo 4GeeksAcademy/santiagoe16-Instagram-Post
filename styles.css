@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    background-color: rgb(122, 122, 122);
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    background: white;
+    margin: auto;
+    width: 500px;
+    margin-top: 25px;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    text-justify:initial;
+}
+.fa-html5{
+    font-size: 30px;
+    margin: 13px;
+}
+.fa-ellipsis-vertical{
+    font-size: 33px;
+    margin: 13px;
+}
+header p{
+    margin: 0;
+}
+header div{
+    width: 100%;
+}
+.post-img img{
+    width: 500px;
+    height: 400px;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    padding: 16px;
+    padding-bottom: 10px;
+}
+.icons i{
+    margin-right: 8px;
+}
+.fa-bookmark{
+    margin-left: 305px !important;
+}
+.descripcion {
+    padding: 17px;
+    padding-top: 0;
+}
